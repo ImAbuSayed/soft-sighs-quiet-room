@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-sighs-quiet-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Soft Sighs Quiet Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-sighs-quiet-room/) |
+| **Get License** | [Request Licensing for Soft Sighs Quiet Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-sighs-quiet-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull the curtains, leave the world behind
+> Let the shadows trace your silhouette tonight
+> Just a spark between the darkness and the light
+> Melting in the middle of a perfect night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
